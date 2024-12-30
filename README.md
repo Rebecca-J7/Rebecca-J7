@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rebecca-J7
+- 👋 Hi, I’m Rebecca Jennings
 - 👀 I’m interested in Computer Science and Cybersecurity
 - 🌱 I’m currently learning C++ and Tailwind CSS
 - 💞️ I’m looking to collaborate on projects to build some more experience
