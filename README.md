@@ -1,10 +1,20 @@
-- 👋 Hi, I’m Rebecca Jennings
-- 👀 I’m interested in Computer Science and Cybersecurity
-- 🌱 I’m currently learning C++ and Tailwind CSS
-- 💞️ I’m looking to collaborate on projects to build some more experience
-- 📫 How to reach me - rjenn003@ucr.edu or rjennings0007@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like to play drums and I have a pet bird and cat!
+## 💜Rebecca Jennings | Bridging the gaps between ethics and technology to build innovations
+- Computer Science @ University of California, Riverside
+- Operations @ Various Organizations
+- Software Engineer Volunteer @ Engineers For Good
+
+## 👩‍💻Focus Areas
+
+
+## ⚙️Projects
+
+## 📝Background
+
+## 🌟Skills
+
+## 🌐Contact
+- [Personal Website](https://rebecca-j7.github.io/Rebecca-Portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/rebecca-jennings-246a652a1/)
 
 <!---
 Rebecca-J7/Rebecca-J7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
