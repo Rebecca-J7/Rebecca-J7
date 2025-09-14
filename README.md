@@ -1,25 +1,30 @@
 ## 💜Rebecca Jennings | Bridging the gaps between ethics and technology to build innovations
 - Computer Science @ University of California, Riverside
-- Operations @ Various Organizations
+- Peer Academic Advisor @ BCOE University of California, Riverside
+- Leadership Roles @ Various Organizations
 - Software Engineer Volunteer @ Engineers For Good
 
 ## 👩‍💻Focus Areas
-**Tech | Design | Study**
-- **Tech**: coming soon
-- **Design**: coming soon
-- **Study**: coming soon
+**Tech | Design | Study | Interests**
+- **Tech**: real-world ideation, multi-purpose functions
+- **Design**: UI/UX design, vibrant, interactive, accessible
+- **Study**: computer science
+- **Interests**: ethics, programming, software development
 
 ## ⚙️Projects
-**Productivity | Hardware | Ethics**
-- coming soon
-- coming soon
-- coming soon
+**Productivity | Hardware | UI/UX | Ethics**
+- **Study Space**: A website that fosters motivation and guidance toward productive study habits (design in progress, more to come for development)
+- **Vitamin-Difciency Kit**: Multi-device kit that includes three devices: a portable sunlight tracker, a pill dispenser, and an informational website dedicated to bringing awareness and resolving issues with Vitamin D deficiency
+- **Plant Bodyguard**: Simultaneously monitoring of plant conditions (sunlight exposure, object detection, and temperature) through sensors & real-time feedback
+- **AI & API Content Generation**: Research and document the APIs best used for infographic and media generation to develop consistent templates for non-profit organizations to utilize
 
 ## 📝Background
 **5+ Orgs | 10+ Projects |**
-- **Organizations**: coming soon
-- **Projects**: coming soon
-- **Workflows**: coming soon
+- **Organizations**: Lead and contribute to 5+ organizations (student clubs/organizations, companies, nonprofits) across tech, community service, and design.
+  - Organize 20+ events, initiatives, and programs across multiple organizations at the internal and local level
+- **Projects**: Build 10+ projects focused on tech fields and improvement
+  - Tech fields - AI, design, software
+  - Improvement - healthcare, environment, productivity
 
 ## 🌟Skills
 | Category | Tools |
